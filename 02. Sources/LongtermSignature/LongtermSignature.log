@@ -1,0 +1,1114 @@
+2016-03-04 09:37:58 INFO  CryptoTokenUtilTest:21 - Signer's certificate: [
+[
+  Version: V3
+  Subject: CN=Server_TuanBS3
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 28258320955618915854363445690176053076124720867597083546572620565288276577126664833573837445564087957314693174681823076392744758777068181757660858680150964671399414218239805864660498175323199313871921964074180218606877704615028306182627686388033844243683655414045276011961202150465414723302613813382034639449832114346155657311104587950790139353571502903311135107509296479531915787389435252661936385830264442590526163366591422334961957582713755482239444260656137613508403558295016441765068301070066858984594094656790318125587485675663487355851598909063454785595427875603867807132647062050105586598334645742625860341343
+  public exponent: 65537
+  Validity: [From: Tue Oct 06 13:59:49 ICT 2015,
+               To: Thu Oct 05 13:59:49 ICT 2017]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  SerialNumber: [    540374b3 12b533c9 439ecd7a db87cda9]
+
+Certificate Extensions: 5
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[3]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[4]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[5]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 4F 10 41 64 8A DA 28   13 5A B5 6B 30 72 8D C1  .O.Ad..(.Z.k0r..
+0010: AE 73 9B DE                                        .s..
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 52 76 2D 3A 72 89 6F 76   F1 77 BF 33 61 FE 9A 02  Rv-:r.ov.w.3a...
+0010: 54 0B 6D B6 FD 19 8C DC   47 BD 9C 2F CF 85 EB D0  T.m.....G../....
+0020: 30 41 9E 14 00 73 82 7A   D6 5D B0 E6 1C 85 F5 7F  0A...s.z.]......
+0030: CE 00 F2 1C 1E B5 FB C5   01 E9 25 E2 2B AD D0 83  ..........%.+...
+0040: 09 27 BF 9F 93 E8 5D CD   40 35 F6 93 8B FB 2B 72  .'....].@5....+r
+0050: 2F 40 C2 B8 E5 F1 9E 5A   35 4C 05 C3 42 56 4B F8  /@.....Z5L..BVK.
+0060: 59 CC 10 6A EC 92 5C 48   99 E1 17 21 DB A9 F6 35  Y..j..\H...!...5
+0070: B7 49 0C 82 CC 78 48 6C   A5 86 5C 2E A7 A7 CF 7D  .I...xHl..\.....
+
+]
+2016-03-04 09:38:24 INFO  CryptoTokenUtilTest:[21] - Signer's certificate: [
+[
+  Version: V3
+  Subject: CN=Server_TuanBS3
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 28258320955618915854363445690176053076124720867597083546572620565288276577126664833573837445564087957314693174681823076392744758777068181757660858680150964671399414218239805864660498175323199313871921964074180218606877704615028306182627686388033844243683655414045276011961202150465414723302613813382034639449832114346155657311104587950790139353571502903311135107509296479531915787389435252661936385830264442590526163366591422334961957582713755482239444260656137613508403558295016441765068301070066858984594094656790318125587485675663487355851598909063454785595427875603867807132647062050105586598334645742625860341343
+  public exponent: 65537
+  Validity: [From: Tue Oct 06 13:59:49 ICT 2015,
+               To: Thu Oct 05 13:59:49 ICT 2017]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  SerialNumber: [    540374b3 12b533c9 439ecd7a db87cda9]
+
+Certificate Extensions: 5
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[3]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[4]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[5]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 4F 10 41 64 8A DA 28   13 5A B5 6B 30 72 8D C1  .O.Ad..(.Z.k0r..
+0010: AE 73 9B DE                                        .s..
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 52 76 2D 3A 72 89 6F 76   F1 77 BF 33 61 FE 9A 02  Rv-:r.ov.w.3a...
+0010: 54 0B 6D B6 FD 19 8C DC   47 BD 9C 2F CF 85 EB D0  T.m.....G../....
+0020: 30 41 9E 14 00 73 82 7A   D6 5D B0 E6 1C 85 F5 7F  0A...s.z.]......
+0030: CE 00 F2 1C 1E B5 FB C5   01 E9 25 E2 2B AD D0 83  ..........%.+...
+0040: 09 27 BF 9F 93 E8 5D CD   40 35 F6 93 8B FB 2B 72  .'....].@5....+r
+0050: 2F 40 C2 B8 E5 F1 9E 5A   35 4C 05 C3 42 56 4B F8  /@.....Z5L..BVK.
+0060: 59 CC 10 6A EC 92 5C 48   99 E1 17 21 DB A9 F6 35  Y..j..\H...!...5
+0070: B7 49 0C 82 CC 78 48 6C   A5 86 5C 2E A7 A7 CF 7D  .I...xHl..\.....
+
+]
+2016-03-04 09:38:52 INFO  CryptoTokenUtilTest:21 - Signer's certificate: [
+[
+  Version: V3
+  Subject: CN=Server_TuanBS3
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 28258320955618915854363445690176053076124720867597083546572620565288276577126664833573837445564087957314693174681823076392744758777068181757660858680150964671399414218239805864660498175323199313871921964074180218606877704615028306182627686388033844243683655414045276011961202150465414723302613813382034639449832114346155657311104587950790139353571502903311135107509296479531915787389435252661936385830264442590526163366591422334961957582713755482239444260656137613508403558295016441765068301070066858984594094656790318125587485675663487355851598909063454785595427875603867807132647062050105586598334645742625860341343
+  public exponent: 65537
+  Validity: [From: Tue Oct 06 13:59:49 ICT 2015,
+               To: Thu Oct 05 13:59:49 ICT 2017]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  SerialNumber: [    540374b3 12b533c9 439ecd7a db87cda9]
+
+Certificate Extensions: 5
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[3]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[4]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[5]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 4F 10 41 64 8A DA 28   13 5A B5 6B 30 72 8D C1  .O.Ad..(.Z.k0r..
+0010: AE 73 9B DE                                        .s..
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 52 76 2D 3A 72 89 6F 76   F1 77 BF 33 61 FE 9A 02  Rv-:r.ov.w.3a...
+0010: 54 0B 6D B6 FD 19 8C DC   47 BD 9C 2F CF 85 EB D0  T.m.....G../....
+0020: 30 41 9E 14 00 73 82 7A   D6 5D B0 E6 1C 85 F5 7F  0A...s.z.]......
+0030: CE 00 F2 1C 1E B5 FB C5   01 E9 25 E2 2B AD D0 83  ..........%.+...
+0040: 09 27 BF 9F 93 E8 5D CD   40 35 F6 93 8B FB 2B 72  .'....].@5....+r
+0050: 2F 40 C2 B8 E5 F1 9E 5A   35 4C 05 C3 42 56 4B F8  /@.....Z5L..BVK.
+0060: 59 CC 10 6A EC 92 5C 48   99 E1 17 21 DB A9 F6 35  Y..j..\H...!...5
+0070: B7 49 0C 82 CC 78 48 6C   A5 86 5C 2E A7 A7 CF 7D  .I...xHl..\.....
+
+]
+2016-03-04 09:39:24 INFO  CryptoTokenUtilTest:22 - Issuer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 1024 bits
+  modulus: 105895474869667021987496551021898354623277844887319437898443977962715676240155259852592635559980818191959654826917388919220050077029142900146766301379100301907575517323775578555307602561920903505323601787718946492546041799837428938251130471094076561724388948223315089961261410413759183108482499086892487503953
+  public exponent: 65537
+  Validity: [From: Sat Sep 05 10:20:10 ICT 2015,
+               To: Sat May 23 17:30:34 ICT 2020]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=ROOT BkisCA
+  SerialNumber: [    54032de9 b16cdc53 4f4f7eb2 c809e81b]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 13 60 C4 AF D1 6B 9F B6   97 8C 5A 6A 24 5E FC 43  .`...k....Zj$^.C
+0010: B8 1A 60 34                                        ..`4
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 21 7F D9 0A AF 66 C0 AA   C7 B8 85 73 4A 69 CC 9B  !....f.....sJi..
+0010: 01 09 E9 D8 B7 91 E8 16   F7 0C D0 67 E4 8D 30 F7  ...........g..0.
+0020: DA 92 B5 30 87 53 B0 DF   EA 6E C7 67 3B 72 D4 E6  ...0.S...n.g;r..
+0030: B3 DB D4 68 E7 66 25 CA   D2 EE 20 88 EC 79 3D 6B  ...h.f%... ..y=k
+0040: FB D9 C4 EA 9A C1 29 C9   DD 72 75 B2 8D 41 EA D2  ......)..ru..A..
+0050: EE A2 F7 DE E8 E5 5D 39   EB 6C 73 D9 49 13 03 D0  ......]9.ls.I...
+0060: B5 7B 0D D2 FD 56 D4 BC   56 4A 26 04 FA 6B 4D C0  .....V..VJ&..kM.
+0070: A9 5A A6 70 96 25 19 7A   94 74 A2 6D BC 7A 24 66  .Z.p.%.z.t.m.z$f
+
+]
+2016-03-04 09:40:14 INFO  CryptoTokenUtilTest:23 - Signer's private key: [
+[
+  Version: V3
+  Subject: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 1024 bits
+  modulus: 105895474869667021987496551021898354623277844887319437898443977962715676240155259852592635559980818191959654826917388919220050077029142900146766301379100301907575517323775578555307602561920903505323601787718946492546041799837428938251130471094076561724388948223315089961261410413759183108482499086892487503953
+  public exponent: 65537
+  Validity: [From: Sat Sep 05 10:20:10 ICT 2015,
+               To: Sat May 23 17:30:34 ICT 2020]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=ROOT BkisCA
+  SerialNumber: [    54032de9 b16cdc53 4f4f7eb2 c809e81b]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 13 60 C4 AF D1 6B 9F B6   97 8C 5A 6A 24 5E FC 43  .`...k....Zj$^.C
+0010: B8 1A 60 34                                        ..`4
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 21 7F D9 0A AF 66 C0 AA   C7 B8 85 73 4A 69 CC 9B  !....f.....sJi..
+0010: 01 09 E9 D8 B7 91 E8 16   F7 0C D0 67 E4 8D 30 F7  ...........g..0.
+0020: DA 92 B5 30 87 53 B0 DF   EA 6E C7 67 3B 72 D4 E6  ...0.S...n.g;r..
+0030: B3 DB D4 68 E7 66 25 CA   D2 EE 20 88 EC 79 3D 6B  ...h.f%... ..y=k
+0040: FB D9 C4 EA 9A C1 29 C9   DD 72 75 B2 8D 41 EA D2  ......)..ru..A..
+0050: EE A2 F7 DE E8 E5 5D 39   EB 6C 73 D9 49 13 03 D0  ......]9.ls.I...
+0060: B5 7B 0D D2 FD 56 D4 BC   56 4A 26 04 FA 6B 4D C0  .....V..VJ&..kM.
+0070: A9 5A A6 70 96 25 19 7A   94 74 A2 6D BC 7A 24 66  .Z.p.%.z.t.m.z$f
+
+]
+2016-03-04 09:40:24 INFO  CryptoTokenUtilTest:23 - Signer's private key: sun.security.rsa.RSAPrivateCrtKeyImpl@a206d
+2016-03-04 09:40:47 INFO  CryptoTokenUtilTest:24 - Issuer's certchain: [Ljava.security.cert.Certificate;@36e7a9
+2016-03-04 09:41:06 INFO  CryptoTokenUtilTest:25 - Issuer's provider: SunJSSE version 1.7
+2016-03-04 10:14:28 INFO  CryptoTokenUtilTest:37 - Issuer's provider: SunMSCAPI version 1.7
+2016-03-04 10:14:43 INFO  CryptoTokenUtilTest:33 - Signer's certificate: [
+[
+  Version: V3
+  Subject: CN=Server_TuanBS3
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 28258320955618915854363445690176053076124720867597083546572620565288276577126664833573837445564087957314693174681823076392744758777068181757660858680150964671399414218239805864660498175323199313871921964074180218606877704615028306182627686388033844243683655414045276011961202150465414723302613813382034639449832114346155657311104587950790139353571502903311135107509296479531915787389435252661936385830264442590526163366591422334961957582713755482239444260656137613508403558295016441765068301070066858984594094656790318125587485675663487355851598909063454785595427875603867807132647062050105586598334645742625860341343
+  public exponent: 65537
+  Validity: [From: Tue Oct 06 13:59:49 ICT 2015,
+               To: Thu Oct 05 13:59:49 ICT 2017]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  SerialNumber: [    540374b3 12b533c9 439ecd7a db87cda9]
+
+Certificate Extensions: 5
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[3]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+]
+
+[4]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[5]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 4F 10 41 64 8A DA 28   13 5A B5 6B 30 72 8D C1  .O.Ad..(.Z.k0r..
+0010: AE 73 9B DE                                        .s..
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 52 76 2D 3A 72 89 6F 76   F1 77 BF 33 61 FE 9A 02  Rv-:r.ov.w.3a...
+0010: 54 0B 6D B6 FD 19 8C DC   47 BD 9C 2F CF 85 EB D0  T.m.....G../....
+0020: 30 41 9E 14 00 73 82 7A   D6 5D B0 E6 1C 85 F5 7F  0A...s.z.]......
+0030: CE 00 F2 1C 1E B5 FB C5   01 E9 25 E2 2B AD D0 83  ..........%.+...
+0040: 09 27 BF 9F 93 E8 5D CD   40 35 F6 93 8B FB 2B 72  .'....].@5....+r
+0050: 2F 40 C2 B8 E5 F1 9E 5A   35 4C 05 C3 42 56 4B F8  /@.....Z5L..BVK.
+0060: 59 CC 10 6A EC 92 5C 48   99 E1 17 21 DB A9 F6 35  Y..j..\H...!...5
+0070: B7 49 0C 82 CC 78 48 6C   A5 86 5C 2E A7 A7 CF 7D  .I...xHl..\.....
+
+]
+2016-03-04 10:25:48 INFO  CryptoTokenUtilTest:34 - Issuer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 1024 bits
+  modulus: 105895474869667021987496551021898354623277844887319437898443977962715676240155259852592635559980818191959654826917388919220050077029142900146766301379100301907575517323775578555307602561920903505323601787718946492546041799837428938251130471094076561724388948223315089961261410413759183108482499086892487503953
+  public exponent: 65537
+  Validity: [From: Sat Sep 05 10:20:10 ICT 2015,
+               To: Sat May 23 17:30:34 ICT 2020]
+  Issuer: C=VN, L=HaNoi, O=ROOT BkisCA, CN=ROOT BkisCA
+  SerialNumber: [    54032de9 b16cdc53 4f4f7eb2 c809e81b]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 13 60 C4 AF D1 6B 9F B6   97 8C 5A 6A 24 5E FC 43  .`...k....Zj$^.C
+0010: B8 1A 60 34                                        ..`4
+]
+]
+
+[2]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A5 60 31 15 6F 48 0A C0   93 8E 0F 8F 68 05 AF 9A  .`1.oH......h...
+0010: DE C1 03 EC                                        ....
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 21 7F D9 0A AF 66 C0 AA   C7 B8 85 73 4A 69 CC 9B  !....f.....sJi..
+0010: 01 09 E9 D8 B7 91 E8 16   F7 0C D0 67 E4 8D 30 F7  ...........g..0.
+0020: DA 92 B5 30 87 53 B0 DF   EA 6E C7 67 3B 72 D4 E6  ...0.S...n.g;r..
+0030: B3 DB D4 68 E7 66 25 CA   D2 EE 20 88 EC 79 3D 6B  ...h.f%... ..y=k
+0040: FB D9 C4 EA 9A C1 29 C9   DD 72 75 B2 8D 41 EA D2  ......)..ru..A..
+0050: EE A2 F7 DE E8 E5 5D 39   EB 6C 73 D9 49 13 03 D0  ......]9.ls.I...
+0060: B5 7B 0D D2 FD 56 D4 BC   56 4A 26 04 FA 6B 4D C0  .....V..VJ&..kM.
+0070: A9 5A A6 70 96 25 19 7A   94 74 A2 6D BC 7A 24 66  .Z.p.%.z.t.m.z$f
+
+]
+2016-03-04 10:25:54 INFO  CryptoTokenUtilTest:35 - Signer's private key: RSAPrivateKey [size=2048 bits, type=Exchange, container=Server_TuanBS3]
+2016-03-04 10:26:04 INFO  CryptoTokenUtilTest:36 - Issuer's certchain: [Ljava.security.cert.X509Certificate;@f22456
+2016-03-04 11:21:30 ERROR CryptoToken:200 -  not found
+2016-03-04 11:23:48 ERROR CryptoToken:200 - Default key "Công ty TNHH Nguyễn Minh Hải" not found
+2016-03-04 11:25:18 ERROR CryptoToken:200 - Default key "Công ty TNHH Nguyễn Minh Hải" not found
+2016-03-04 11:26:26 INFO  CryptoToken:180 - CÃ´ng ty TNHH Nguyá»n Minh Háº£i
+2016-03-04 11:26:26 ERROR CryptoToken:202 - Default key "Công ty TNHH Nguyễn Minh Hải" not found
+2016-03-04 11:26:54 INFO  CryptoToken:180 - CÃ´ng ty TNHH Nguyá»n Minh Háº£i
+2016-03-04 11:26:54 INFO  CryptoTokenUtilTest:32 - Issuer's provider: null
+2016-03-04 11:28:30 INFO  CryptoToken:180 - CÃ´ng ty TNHH Nguyá»n Minh Háº£i
+2016-03-04 11:28:30 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 14:04:49 ERROR CryptoToken:82 - FileNotFoundException: S:\KEYSTORE\KEY_2048\Server_TuanBS3.p12 (The system cannot find the path specified)
+2016-03-04 17:17:10 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 17:17:34 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-04 17:17:34 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 17:18:01 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-04 17:18:01 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-04 17:18:01 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 17:18:54 INFO  CryptoToken:192 - false
+2016-03-04 17:18:54 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-04 17:18:54 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-04 17:18:54 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 17:20:19 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-04 17:20:19 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-04 17:20:19 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-04 17:21:53 INFO  CryptoToken:275 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-04 17:21:53 INFO  CryptoToken:275 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-04 17:22:01 INFO  CryptoToken:275 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-04 17:22:01 INFO  CryptoToken:275 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-04 17:22:28 INFO  CryptoToken:275 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-04 17:22:28 INFO  CryptoToken:275 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 10:57:03 ERROR CryptoToken:82 - FileNotFoundException: S:\WORK\KEYSTORE\KEY_2048\Server_TuanBS3.p12 (The system cannot find the path specified)
+2016-03-08 10:57:30 INFO  CryptoToken:275 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 10:57:30 INFO  CryptoToken:275 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:02:23 INFO  CryptoToken:114 - Server_TuanBS3
+2016-03-08 11:02:23 INFO  CryptoToken:114 - C�ng ty TNHH Nguy?n Minh H?i
+2016-03-08 11:02:23 INFO  CryptoToken:114 - ROOT BkisCA
+2016-03-08 11:02:23 INFO  CryptoToken:114 - SubROOTBkisCA
+2016-03-08 11:02:44 INFO  CryptoToken:115 - Server_TuanBS3
+2016-03-08 11:03:53 INFO  CryptoToken:117 - Server_TuanBS3
+2016-03-08 11:08:21 ERROR CryptoToken:202 - Default key "CÃ´ng ty TNHH Nguyá»n Minh Háº£i" not found
+2016-03-08 11:08:44 ERROR CryptoToken:202 - Default key "CÃ´ng ty TNHH Nguyá»n Minh Háº£i" not found
+2016-03-08 11:09:54 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-08 11:09:54 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-08 11:09:54 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-08 11:11:53 INFO  CryptoToken:197 - 
+2016-03-08 11:12:22 INFO  CryptoToken:197 - 
+2016-03-08 11:15:53 INFO  CryptoToken:192 - 1
+2016-03-08 11:16:24 INFO  CryptoToken:192 - 1
+2016-03-08 11:16:24 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-08 11:16:24 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-08 11:16:24 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-08 11:18:27 INFO  CryptoToken:192 - 1
+2016-03-08 11:18:27 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-08 11:18:27 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-08 11:18:27 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-08 11:22:12 INFO  CryptoToken:179 - 37CE2F6B-14C7-4B61-8FE0-85C5F2FD4D21
+2016-03-08 11:22:12 ERROR CryptoToken:205 - Default key "CÃ´ng ty TNHH Nguyá»n Minh Háº£i" not found
+2016-03-08 11:23:05 INFO  CryptoToken:179 - 37CE2F6B-14C7-4B61-8FE0-85C5F2FD4D21
+2016-03-08 11:23:05 ERROR CryptoToken:205 - Default key "CÃ´ng ty TNHH Nguyá»n Minh Háº£i" not found
+2016-03-08 11:25:02 INFO  CryptoToken:179 - 37CE2F6B-14C7-4B61-8FE0-85C5F2FD4D21
+2016-03-08 11:25:02 ERROR CryptoToken:205 - Default key "CÃ´ng ty TNHH Nguyá»n Minh Háº£i" not found
+2016-03-08 11:25:22 INFO  CryptoToken:179 - CÃ´ng ty TNHH Nguyá»n Minh Háº£i
+2016-03-08 11:25:22 INFO  CryptoTokenUtilTest:28 - Signer's certificate: [
+[
+  Version: V3
+  Subject: C=VN, ST=Hà Nội, L=Cầu Giấy, CN=Công ty TNHH Nguyễn Minh Hải, UID=MST:0101360697-999
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  SunPKCS11-BkavCA_Token RSA public key, 1024 bits (id 2147483649, session object)
+  modulus: 147135008223757789846759164672398030711380712183639744828201129251962164994853102025733801056472118048135902919157948864621004186533262553636509031651332649745781383419509755731189195477182692677239862881050507279484286668426093942236046720773482842386542057696361246827296733656158214546198610618764094378933
+  public exponent: 65537
+  Validity: [From: Fri May 29 13:47:38 ICT 2015,
+               To: Sat May 28 13:47:38 ICT 2016]
+  Issuer: CN=BkavCA, O=Bkav Corporation, L=Hanoi, C=VN
+  SerialNumber: [    540373fc 75801a7b 136b8faf b2222a8e]
+
+Certificate Extensions: 7
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.bkavca.vn
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 1E B0 0F 48 97 DF D0 C3   67 A7 46 84 3B 58 3B 88  ...H....g.F.;X;.
+0010: 0D 53 94 86                                        .S..
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.bkavca.vn/BkavCA.crl]
+   CRLIssuer:[C=VN, L=Hanoi, O=Bkav Corporation, CN=BkavCA]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  emailProtection
+  1.3.6.1.4.1.311.10.3.12
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+[7]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 17 68 26 36 9B AB 01 CE   22 12 FF E3 D1 71 2D E3  .h&6...."....q-.
+0010: 8F F7 57 CA                                        ..W.
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 0B 36 67 F5 23 F8 AB 96   EA 60 C3 1B 1C 89 89 80  .6g.#....`......
+0010: 55 37 CE 4E F5 02 DC 3E   3C 0D B9 4B F9 84 78 F3  U7.N...><..K..x.
+0020: 4A D2 0B E9 9A 4D 0D 56   F2 57 55 20 21 F1 6D A4  J....M.V.WU !.m.
+0030: A8 84 C0 C6 6E F6 7E D6   66 D1 DC D6 10 5F 61 D6  ....n...f...._a.
+0040: A0 84 5E 6F 36 2B 7D 64   09 4D 00 F4 B5 F0 2C E3  ..^o6+.d.M....,.
+0050: 11 5B 32 A4 2A 4C E2 EE   B8 DC C7 A7 AD 9C E6 58  .[2.*L.........X
+0060: F1 C4 69 34 55 D4 C7 C7   C4 51 CC E6 31 99 83 0B  ..i4U....Q..1...
+0070: F1 BE 6A 68 70 08 B2 D7   FE 73 EA 9C 9E 77 41 66  ..jhp....s...wAf
+0080: 2A 8F 80 C9 D6 49 AF 4A   4E 39 B4 00 6F 98 47 90  *....I.JN9..o.G.
+0090: E0 58 B3 DA A5 AA 65 62   DD C4 4B E5 43 0B B4 01  .X....eb..K.C...
+00A0: C1 A9 B2 23 59 74 B9 ED   4B AE 6F 68 35 80 21 F6  ...#Yt..K.oh5.!.
+00B0: 5F 8B 6E A2 AA 75 8B 12   0A EE 7D BF AF AC DB FD  _.n..u..........
+00C0: FF 08 90 26 C7 06 C5 5D   94 FE 29 B0 D2 26 72 0B  ...&...]..)..&r.
+00D0: 03 88 44 18 64 28 6E 1F   0E 07 39 A5 1E F4 16 10  ..D.d(n...9.....
+00E0: D8 13 6A 1B 5D 1A 81 4D   A2 7D AA 30 A8 F4 82 5F  ..j.]..M...0..._
+00F0: 7E 04 E0 4A CB F4 08 44   6A 4C 3A 9A 79 A7 1F 27  ...J...DjL:.y..'
+
+]
+2016-03-08 11:25:22 INFO  CryptoTokenUtilTest:29 - Issuer's certificate: null
+2016-03-08 11:25:22 INFO  CryptoTokenUtilTest:32 - Issuer's provider: SunPKCS11-BkavCA_Token version 1.7
+2016-03-08 11:29:08 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:29:08 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:31:34 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:31:34 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:33:53 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:33:53 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:34:18 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:34:18 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:34:39 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:34:39 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:36:09 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:36:09 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:38:38 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:38:38 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:46:26 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:46:26 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:48:04 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:48:04 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:48:53 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:48:53 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:49:09 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:49:09 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:50:07 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:50:07 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:50:19 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:50:19 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:51:07 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:51:07 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:52:49 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:52:49 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:53:45 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:53:45 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:56:06 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:56:06 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:56:52 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:56:52 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:57:46 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:57:46 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:58:21 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 11:58:21 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 12:03:12 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 12:03:12 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 13:45:36 INFO  CryptoToken:277 - CN=Server_TuanBS3 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
+2016-03-08 13:45:36 INFO  CryptoToken:277 - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA - C=VN, L=HaNoi, O=ROOT BkisCA, CN=SubROOTBkisCA
